@@ -45,15 +45,15 @@ Como hemos observado, el 84% de los incendios son provocados por la acción del 
 
 Para contrastar la última de nuestras hipótesis de partida representamos la superficie quemada y el número de incendios anuales. Observamos que salvo en 2012, que es cuando más superficie quemada se produjo en toda la serie, la tendencia tanto del número de incendios como de superficie quemada es descendente.
 
-![analisis4.png](https://www.dropbox.com/s/9un0xjozhlmysmo/analisis4.png?dl=0&raw=1)
+![analisis4.png](https://www.dropbox.com/s/3okcd6t901co0uv/analisis4.png?dl=0&raw=1)
 
 También representamos el índice de gravedad, que se define como el porcentaje de superficie forestal afectada por incendios respecto a la total existente, observándose una tendencia descendente, lo cual es un indicador de mejora.
 
-![analisis5.png](https://www.dropbox.com/s/yskcehqv4jjgutw/analisis5.png?dl=0&raw=1)
+![analisis5.png](https://www.dropbox.com/s/i3n0lbxf3jihdaf/analisis5.png?dl=0&raw=1)
 
 Para profundizar en el análisis he ideado un ratio que resulta de dividir la superficie quemada entre el número de incendios, observándose que cada vez se queman más hectáreas por incendio. Un motivo que puede explicar este fenómeno es la aparición de los incendios de sexta generación, en los que la masa de combustible es tan grande que el fuego modifica las condiciones meteorológicas y son inapagables. Con el cambio climático y el abandono del medio rural, cada vez irán a más.
 
-![analisis6.png](https://www.dropbox.com/s/ahfq4d15x9qz97h/analisis6.png?dl=0&raw=1)
+![analisis6.png](https://www.dropbox.com/s/4kh5gxub7528gsq/analisis6.png?dl=0&raw=1)
 
 Para finalizar, se muestran las conclusiones a las que hemos llegado y algunas de las medidas que se podrían tomar para reducir los incendios.
 
